@@ -1,0 +1,55 @@
+{
+  "adsBool": {
+    "isShowAd": true,
+    "isShowInter": true,
+    "isShowBanner": true,
+    "isShowOpen": true,
+    "isInterConnectVPN": true,
+    "isInterSelectCountry": true,
+    "isShowBannerCountry": true,
+    "isShowBannerInfo": true,
+    "isPreloading": true
+  },
+  "ads": {
+    "android": {
+      "adx": {
+        "inter": "ca-app-pub-3940256099942544/1033173712",
+        "openApp": "ca-app-pub-3940256099942544/9257395921",
+        "native": "ca-app-pub-3940256099942544/2247696110"
+      },
+      "facebook": {
+        "inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+      },
+      "google": {
+        "inter": "ca-app-pub-3940256099942544/1033173712",
+        "openApp": "ca-app-pub-3940256099942544/9257395921",
+        "native": "ca-app-pub-3940256099942544/2247696110"
+      },
+      "adType": "g",
+      "adxEnable": false
+    },
+    "ios": {
+      "adx": {
+        "inter": "ca-app-pub-3940256099942544/1033173712",
+        "openApp": "ca-app-pub-3940256099942544/9257395921",
+        "native": "ca-app-pub-3940256099942544/2247696110"
+      },
+      "facebook": {
+        "inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+      },
+      "google": {
+        "inter": "ca-app-pub-3940256099942544/1033173712",
+        "openApp": "ca-app-pub-3940256099942544/9257395921",
+        "native": "ca-app-pub-3940256099942544/2247696110"
+      },
+      "adType": "g",
+      "adxEnable": false
+    }
+  },
+  "other": {
+    "terms": "https://resume-builder-frontend-cloned.vercel.app/terms",
+    "privacy": "https://resume-builder-frontend-cloned.vercel.app/privacy"
+  }
+}
